@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cmh-project-basis-base" />
         <module name="cmh-project-basis-utils" />
       </profile>
     </annotationProcessing>
