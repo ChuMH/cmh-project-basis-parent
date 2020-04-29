@@ -1,9 +1,6 @@
 package com.cmh.project.basis.base.constant;
 
-/**
- * @author sunweiwei6
- * @date 2018/8/25 11:24
- */
+
 public interface ResultCode {
 
     /**

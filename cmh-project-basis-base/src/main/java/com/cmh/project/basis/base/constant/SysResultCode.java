@@ -1,11 +1,6 @@
 package com.cmh.project.basis.base.constant;
 
-/**
- * 系统级别的异常码表
- * 以"SYS_"开头
- *
- * @author sunweiwei6
- */
+
 public enum SysResultCode implements ResultCode {
     // 成功
     SUCCESS(0, "成功"),
