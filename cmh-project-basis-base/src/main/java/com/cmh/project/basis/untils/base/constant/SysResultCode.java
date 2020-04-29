@@ -1,4 +1,4 @@
-package com.cmh.project.basis.base.constant;
+package com.cmh.project.basis.untils.base.constant;
 
 /**
  * 系统级别的异常码表

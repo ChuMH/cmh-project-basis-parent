@@ -1,7 +1,7 @@
-package com.cmh.project.basis.base;
+package com.cmh.project.basis.untils.base;
 
-import com.cmh.project.basis.base.constant.ResultCode;
-import com.cmh.project.basis.base.constant.SysResultCode;
+import com.cmh.project.basis.untils.base.constant.ResultCode;
+import com.cmh.project.basis.untils.base.constant.SysResultCode;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

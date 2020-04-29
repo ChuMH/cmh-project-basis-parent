@@ -1,4 +1,4 @@
-package com.cmh.project.basis.others;
+package com.cmh.project.basis.utils.others;
 
 import com.google.common.collect.Lists;
 import org.apache.commons.lang3.StringUtils;
