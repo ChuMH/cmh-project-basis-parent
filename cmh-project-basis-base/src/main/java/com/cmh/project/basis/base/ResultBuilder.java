@@ -1,23 +1,18 @@
-package com.cmh.project.basis.untils.base;
+package com.cmh.project.basis.base;
 
-import com.cmh.project.basis.untils.base.constant.ResultCode;
-import com.cmh.project.basis.untils.base.constant.SysResultCode;
+
+import com.cmh.project.basis.base.constant.ResultCode;
+import com.cmh.project.basis.base.constant.SysResultCode;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 
-/**
- * @param <T>
- * @ClassName: ResultBuilder
- * @Description: 结果集构建类
- * @author: 初明昊
- * @date: 2020年04月18日
- */
+
 @Data
-@NoArgsConstructor //自动生成无参数构造器
-@AllArgsConstructor //自动生成全参数构造器
+@NoArgsConstructor
+@AllArgsConstructor
 public class ResultBuilder<T> implements Serializable {
     private static final long serialVersionUID = 7453965263707534560L;
 

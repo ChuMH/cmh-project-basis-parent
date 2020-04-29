@@ -1,10 +1,10 @@
-package com.cmh.project.basis.untils.base.constant;
+package com.cmh.project.basis.base.constant;
 
 /**
  * 系统级别的异常码表
  * 以"SYS_"开头
  *
- * @author 初明昊
+ * @author sunweiwei6
  */
 public enum SysResultCode implements ResultCode {
     // 成功

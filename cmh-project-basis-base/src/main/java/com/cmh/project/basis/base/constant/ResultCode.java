@@ -1,8 +1,8 @@
-package com.cmh.project.basis.untils.base.constant;
+package com.cmh.project.basis.base.constant;
 
 /**
- * @author 初明昊
- * @date 2020/04/18
+ * @author sunweiwei6
+ * @date 2018/8/25 11:24
  */
 public interface ResultCode {
 
