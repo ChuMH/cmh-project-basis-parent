@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84b16815-891c-40af-9a5b-79b449ff68d6" name="Default" comment="" />
+    <list default="true" id="84b16815-891c-40af-9a5b-79b449ff68d6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmh-project-basis-utils/target/cmh-project-basis-utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cmh-project-basis-utils/target/cmh-project-basis-utils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmh-project-basis-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cmh-project-basis-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmh-project-basis-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cmh-project-basis-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cmh-project-basis-utils/target/" />
@@ -24,14 +29,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResultBuilder.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/untils/base/ResultBuilder.java">
+      <file leaf-file-name="ResultBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/ResultBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="855">
+              <caret line="59" column="51" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResultCode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/constant/ResultCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpClientUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/web/HttpClientUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3648">
+              <caret line="235" column="80" selection-start-line="235" selection-start-column="80" selection-end-line="235" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SysResultCode.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/constant/SysResultCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -48,7 +80,7 @@
       <file leaf-file-name="FastJsonUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/json/FastJsonUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
+            <state relative-caret-position="361">
               <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -62,51 +94,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JSONObject.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.jar!/com/alibaba/fastjson/JSONObject.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JSON.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.jar!/com/alibaba/fastjson/JSON.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2356">
-              <caret line="175" column="29" selection-start-line="175" selection-start-column="29" selection-end-line="175" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoggerFactory.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar!/org/slf4j/LoggerFactory.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SysResultCode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/untils/base/constant/SysResultCode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResultCode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/untils/base/constant/ResultCode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -134,16 +121,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/cmh-project-basis-utils/pom.xml" />
-        <option value="$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/web/HttpClientUtil.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cmh-project-basis-base/pom.xml" />
         <option value="$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/json/GsonUtil.java" />
         <option value="$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/others/StringUtil.java" />
         <option value="$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/json/FastJsonUtil.java" />
         <option value="$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/App.java" />
-        <option value="$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/constant/ResultCode.java" />
-        <option value="$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/constant/SysResultCode.java" />
-        <option value="$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/ResultBuilder.java" />
         <option value="$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/json/GsonUtil.java" />
         <option value="$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/others/StringUtil.java" />
         <option value="$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/json/FastJsonUtil.java" />
@@ -151,6 +134,11 @@
         <option value="$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/Test.java" />
         <option value="$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/others/StringUtil.java" />
         <option value="$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/json/FastJsonUtil.java" />
+        <option value="$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/Test.java" />
+        <option value="$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/ResultBuilder.java" />
+        <option value="$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/web/HttpClientUtil.java" />
+        <option value="$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/constant/ResultCode.java" />
+        <option value="$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/constant/SysResultCode.java" />
       </list>
     </option>
   </component>
@@ -163,8 +151,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\apache-maven-3.2.2\repositorys" />
-        <option name="mavenHome" value="D:/apache-maven-3.2.2" />
+        <option name="mavenHome" value="D:/apache-maven-3.0.5-bin/apache-maven-3.0.5" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -211,9 +198,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="553" />
+    <option name="y" value="-9" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -221,9 +209,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -331,16 +318,27 @@
               <item name="utils" type="462c0819:PsiDirectoryNode" />
               <item name="others" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cmh-project-basis-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmh-project-basis-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="cmh-project-basis-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jdh-trade-basis-parent" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -350,15 +348,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cmh.project.basis.utils.web" />
+      <recent name="com.cmh.project.basis.base" />
       <recent name="com.cmh.project.basis.utils.others" />
       <recent name="com.cmh.project.basis.utils.json" />
       <recent name="com.cmh.project.basis.others" />
-      <recent name="com.cmh.project.basis.base" />
-      <recent name="com.cmh.project.basis.utils.base.others" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java_workspace\cmh-project-basis-parent\cmh-project-basis-utils\src\main\java\com\cmh\project\basis" />
       <recent name="D:\Java_workspace\cmh-project-basis-parent\cmh-project-basis-base\src\main\java\com\cmh\project\basis\base" />
+      <recent name="D:\Java_workspace\cmh-project-basis-parent\cmh-project-basis-utils\src\main\java\com\cmh\project\basis" />
       <recent name="D:\Java_workspace\cmh-project-basis-parent\cmh-project-basis-utils\src\main\java\com\cmh\project\basis\utils\base" />
       <recent name="D:\Java_workspace\cmh-project-basis-parent\cmh-project-basis-base" />
       <recent name="D:\Java_workspace\cmh-project-basis-parent\cmh-project-basis-utils" />
@@ -433,7 +431,8 @@
       <workItem from="1586647550203" duration="7000" />
       <workItem from="1587172181923" duration="4714000" />
       <workItem from="1587862455370" duration="1459000" />
-      <workItem from="1588128636881" duration="1009000" />
+      <workItem from="1588128636881" duration="2002000" />
+      <workItem from="1588583735981" duration="375000" />
     </task>
     <task id="LOCAL-00001" summary="添加注解注释">
       <created>1587177352900</created>
@@ -456,15 +455,28 @@
       <option name="project" value="LOCAL" />
       <updated>1588129006107</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="微调">
+      <created>1588145163999</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588145164000</updated>
+    </task>
+    <task id="LOCAL-00005" summary="调整项目内容">
+      <created>1588145359288</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588145359288</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12350000" />
+    <option name="totallyTimeSpent" value="13718000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -473,14 +485,14 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.23324397" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="3" visible="true" weight="0.19906166" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19943424" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19943424" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22922252" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21581769" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -510,7 +522,9 @@
     <MESSAGE value="添加注解注释" />
     <MESSAGE value="JSON操作" />
     <MESSAGE value="调整结构适应架构模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="调整结构适应架构模式" />
+    <MESSAGE value="微调" />
+    <MESSAGE value="调整项目内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整项目内容" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -525,24 +539,8 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmh-project-basis-parent.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/project/basis/utils/web/HttpClientUtil.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServletRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServletRequest.class" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/project/basis/utils/json/FastJsonUtil.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/project/basis/utils/others/StringUtil.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/project/basis/utils/Test.java" />
@@ -564,13 +562,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/project/basis/utils/web/HttpClientUtil.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServletRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServletRequest.class" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/project/basis/utils/json/FastJsonUtil.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/project/basis/utils/others/StringUtil.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/project/basis/utils/Test.java" />
@@ -585,13 +577,7 @@
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-parent.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServletRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServletRequest.class" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/project/basis/utils/web/HttpClientUtil.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/project/basis/utils/others/StringUtil.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/project/basis/utils/json/FastJsonUtil.java" />
@@ -608,20 +594,8 @@
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/json/GsonUtil.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/json/JacksonUtil.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/json/SerializeUtil.java" />
-    <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/untils/base/others/StringUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1064">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/untils/base/json/FastJsonUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/untils/base/others/StringUtil.java" />
+    <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/untils/base/json/FastJsonUtil.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/base/Test.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/App.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/pom.xml">
@@ -638,65 +612,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/json/SerializeUtil.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/json/JacksonUtil.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/json/GsonUtil.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar!/org/slf4j/LoggerFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/untils/others/StringUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.jar!/com/alibaba/fastjson/serializer/SerializeConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="274" column="34" selection-start-line="274" selection-start-column="34" selection-end-line="274" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.jar!/com/alibaba/fastjson/JSON.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2356">
-          <caret line="175" column="29" selection-start-line="175" selection-start-column="29" selection-end-line="175" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.jar!/com/alibaba/fastjson/JSONObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/untils/json/FastJsonUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="161" column="23" selection-start-line="161" selection-start-column="23" selection-end-line="161" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2518#2519#0" expanded="true" />
-            <element signature="e#2574#2575#0" expanded="true" />
-            <element signature="e#3567#3568#0" expanded="true" />
-            <element signature="e#3612#3613#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar!/org/slf4j/LoggerFactory.class" />
+    <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/untils/others/StringUtil.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.jar!/com/alibaba/fastjson/serializer/SerializeConfig.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.jar!/com/alibaba/fastjson/JSON.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.jar!/com/alibaba/fastjson/JSONObject.class" />
+    <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/untils/json/FastJsonUtil.java" />
     <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -704,13 +628,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/json/FastJsonUtil.java">
+    <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        <state relative-caret-position="247">
+          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/Test.java" />
+    <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/ResultBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="59" column="51" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/web/HttpClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3648">
+          <caret line="235" column="80" selection-start-line="235" selection-start-column="80" selection-end-line="235" selection-end-column="80" />
         </state>
       </provider>
     </entry>
@@ -721,27 +660,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/untils/base/constant/ResultCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/untils/base/constant/SysResultCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/untils/base/ResultBuilder.java">
+    <entry file="file://$PROJECT_DIR$/cmh-project-basis-utils/src/main/java/com/cmh/project/basis/utils/json/FastJsonUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/constant/ResultCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmh-project-basis-base/src/main/java/com/cmh/project/basis/base/constant/SysResultCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
